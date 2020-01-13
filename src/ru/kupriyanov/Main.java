@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hey via idea/second branch");
 
         int a = 1;
+        String str = "asd";
     }
 }
