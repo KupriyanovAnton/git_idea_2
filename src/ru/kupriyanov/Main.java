@@ -8,6 +8,6 @@ public class Main {
         System.out.println("This changinging has been writen via idea/second branch");
         System.out.println("Hey via idea/second branch");
 
-
+        int a = 1;
     }
 }
